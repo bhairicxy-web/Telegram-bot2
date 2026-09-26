@@ -1,0 +1,16 @@
+Railway → worker → Variables (exact names):
+
+BOT_TOKEN=your_token_from_BotFather
+SOURCE_CHAT_ID=-1003415196836
+TARGET_CHAT_ID=-1004389329782
+ADMIN_IDS=8467972004,6312515331
+BLOCKED_WORDS=spam,scam,fraud
+
+Start command: python bot.py
+
+After deploy Telegram:
+/start
+/listblocks
+/test
+/bulk 1 20
+/bulk 1 12500
